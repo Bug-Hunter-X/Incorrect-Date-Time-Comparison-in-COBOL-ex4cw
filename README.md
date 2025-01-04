@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs: incorrect date and time comparisons. The bug involves comparing dates numerically rather than using date/time comparison functions. The solution shows how to use COBOL's date and time manipulation features to perform correct comparisons, ensuring accurate results and avoiding potential issues.
